@@ -1,0 +1,4 @@
+interface Payable {
+    int getPayableAmount();
+}
+
